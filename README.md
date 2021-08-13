@@ -16,7 +16,6 @@
   ##
  <div>
    <a href="https://www.linkedin.com/in/geovana-villafranca/" target="_blanck"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
-   <a href="mailto:geovanavillafranca@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget="_blanck"></a>
    
 ![Snake animation](https://github.com/geovanavillafranca/geovanavillafranca/blob/output/github-contribution-grid-snake.svg)
   </div>
