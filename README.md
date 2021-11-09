@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Geovana Villafranca  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
- <div>
+ <div align="center">
   <a href="https://github.com/geovanavillafranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanavillafranca&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanavillafranca&layout=compact&langs_count=7&theme=react"/>
