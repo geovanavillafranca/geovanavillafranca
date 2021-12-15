@@ -1,4 +1,4 @@
-## Olá! Eu sou a Geovana Villafranca  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi! I'm Geovana Villafranca  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
  <div align="center">
   <a href="https://github.com/geovanavillafranca">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanavillafranca&layout=compact&langs_count=7&theme=react"/>
 </div>
  
- ## Minhas Skills :woman_technologist:
+ ## My Hard Skills :woman_technologist:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Geo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
  </div>
  
 
-  ## Meus contatos :iphone:
+  ## My contacts :iphone:
  <div align="center">
    <a href="https://www.linkedin.com/in/geovana-villafranca/" target="_blanck"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
