@@ -1,4 +1,4 @@
-## Hi! I'm Geovana Villafranca  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi! I'm Geovana Villafranca ✋ </h2>
 
  <div align="center">
   <a href="https://github.com/geovanavillafranca">
